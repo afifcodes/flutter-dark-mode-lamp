@@ -42,6 +42,11 @@ class _MyAppState extends State<MyApp> with SingleTickerProviderStateMixin {
     super.dispose();
   }
 
+  //
+  // @developedbyafif
+  // afifudinx.vercel.app
+  //
+
   @override
   Widget build(BuildContext context) {
     systemUi();
