@@ -7,7 +7,7 @@ void main() =>
 
 ## Development Setup
 ```
-git clone https://github.com/afifudinx/flutter-dark-mode-lamp.git
+git clone https://github.com/afifcodes/flutter-dark-mode-lamp.git
 cd flutter-dark-mode-lamp
 flutter pub get
 flutter run
@@ -18,6 +18,6 @@ flutter run
 
 ## Links
 
-* [Website](https://afifudinx.vercel.app)
-* [Youtube channel](https://youtube.com/developedbyafif)
-* [Instagram](https://instagram.com/developedbyafif)
+* [Website](https://afifcodes.vercel.app)
+* [Youtube channel](https://youtube.com/afifcodes)
+* [Instagram](https://instagram.com/afifcodes)
